@@ -1,0 +1,86 @@
+{
+  "iPhone 12": {
+    "url": "https://www.vinted.fr/catalog?search_text=iphone+12&price_to=95&price_from=40&status_ids%5B%5D=3&status_ids%5B%5D=4&status_ids%5B%5D=2",
+    "channel_id": 1436487692236881981,
+    "price_min": 40,
+    "price_max": 95
+  },
+  "iPhone 12 Pro": {
+    "url": "https://www.vinted.fr/catalog?search_text=iphone+12+pro&price_to=110&price_from=40&status_ids%5B%5D=4&status_ids%5B%5D=3&status_ids%5B%5D=2",
+    "channel_id": 1436487795760693359,
+    "price_min": 40,
+    "price_max": 110
+  },
+  "iPhone 12 Pro Max": {
+    "url": "https://www.vinted.fr/catalog?search_text=iphone+12+pro+max&price_to=220&price_from=40&status_ids%5B%5D=4&status_ids%5B%5D=3&status_ids%5B%5D=2",
+    "channel_id": 1436487833526468679,
+    "price_min": 40,
+    "price_max": 220
+  },
+  "iPhone 13": {
+    "url": "https://www.vinted.fr/catalog?search_text=iphone+13&price_to=150&price_from=40&status_ids%5B%5D=4&status_ids%5B%5D=3&status_ids%5B%5D=2",
+    "channel_id": 1436487864245555230,
+    "price_min": 40,
+    "price_max": 150
+  },
+  "iPhone 13 Pro": {
+    "url": "https://www.vinted.fr/catalog?search_text=iphone+13+pro&price_to=190&price_from=40&status_ids%5B%5D=4&status_ids%5B%5D=3&status_ids%5B%5D=2",
+    "channel_id": 1436487922613354637,
+    "price_min": 40,
+    "price_max": 190
+  },
+  "iPhone 13 Pro Max": {
+    "url": "https://www.vinted.fr/catalog?search_text=iphone+13+pro+max&price_to=190&price_from=40&status_ids%5B%5D=4&status_ids%5B%5D=3&status_ids%5B%5D=2",
+    "channel_id": 1436487971577659422,
+    "price_min": 40,
+    "price_max": 190
+  },
+  "iPhone 14": {
+    "url": "https://www.vinted.fr/catalog?search_text=iphone+14&price_to=170&price_from=40&status_ids%5B%5D=4&status_ids%5B%5D=3&status_ids%5B%5D=2",
+    "channel_id": 1433955914938974319,
+    "price_min": 40,
+    "price_max": 170
+  },
+  "iPhone 14 Plus": {
+    "url": "https://www.vinted.fr/catalog?search_text=iphone+14+plus&price_to=190&price_from=40&status_ids%5B%5D=2&status_ids%5B%5D=3&status_ids%5B%5D=4",
+    "channel_id": 1433970536685375580,
+    "price_min": 40,
+    "price_max": 190
+  },
+  "iPhone 14 Pro": {
+    "url": "https://www.vinted.fr/catalog?search_text=iphone+14+pro&price_to=320&price_from=40&status_ids%5B%5D=2&status_ids%5B%5D=3&status_ids%5B%5D=4",
+    "channel_id": 1436488133226139659,
+    "price_min": 40,
+    "price_max": 320
+  },
+  "iPhone 14 Pro Max": {
+    "url": "https://www.vinted.fr/catalog?search_text=iphone+14+pro+max&price_to=320&price_from=40&status_ids%5B%5D=2&status_ids%5B%5D=3&status_ids%5B%5D=4",
+    "channel_id": 1436488164222177291,
+    "price_min": 40,
+    "price_max": 320
+  },
+  "iPhone 15": {
+    "url": "https://www.vinted.fr/catalog?search_text=iphone+15&price_to=250&price_from=40&status_ids%5B%5D=4&status_ids%5B%5D=3&status_ids%5B%5D=2",
+    "channel_id": 1436488195125678100,
+    "price_min": 40,
+    "price_max": 250
+  },
+  "iPhone 15 Plus": {
+    "url": "https://www.vinted.fr/catalog?search_text=iphone+15+plus&price_to=250&price_from=40&status_ids%5B%5D=3&status_ids%5B%5D=2&status_ids%5B%5D=1",
+    "channel_id": 1436488227728003092,
+    "price_min": 40,
+    "price_max": 250
+  },
+  "iPhone 15 Pro": {
+    "url": "https://www.vinted.fr/catalog?search_text=iphone+15+pro&price_to=400&status_ids%5B%5D=4&status_ids%5B%5D=3&status_ids%5B%5D=2",
+    "channel_id": 1436488262968676434,
+    "price_min": 40,
+    "price_max": 400
+  },
+  "iPhone 15 Pro Max": {
+    "url": "https://www.vinted.fr/catalog?search_text=iphone+15+pro+max&price_to=400&price_from=40&status_ids%5B%5D=4&status_ids%5B%5D=3&status_ids%5B%5D=2",
+    "channel_id": 1436488302948520149,
+    "price_min": 40,
+    "price_max": 400
+  }
+}
